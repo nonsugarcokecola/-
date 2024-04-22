@@ -38,7 +38,7 @@
 
 ![image-20240415150631990](lesson4.assets/image-20240415150631990.png)
 
-
+自我认知模型部署
 
 
 
@@ -50,6 +50,7 @@
 
 
 
+![image-20240423003758963](lesson4.assets/image-20240423003758963.png)
 
 
 
@@ -66,29 +67,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-![image-20240414201029623](lesson4  - 副本.assets/image-20240414201029623.png)
-
-
-
-
-
-
-
-
-
-![image-20240414201013235](lesson4  - 副本.assets/image-20240414201013235.png)![image-20240414201058757](lesson4  - 副本.assets/image-20240414201058757.png![image-20240414201315232](lesson4  - 副本.assets/image-20240414201315232.png![image-20240414202105232](lesson4  - 副本.assets/image-20240414202105232.png)
 
 
 
