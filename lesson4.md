@@ -42,25 +42,13 @@
 
 
 
-![image-20240415172200606](lesson4.assets/image-20240415172200606.png)
-
-
-
 
 
 
 
 ![image-20240423003758963](lesson4.assets/image-20240423003758963.png)
 
-
-
-
-
-
-
-
-
-
+![image-20240423004010831](lesson4.assets/image-20240423004010831.png)
 
 
 
