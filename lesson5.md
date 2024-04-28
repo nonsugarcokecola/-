@@ -58,8 +58,8 @@
 
 
 
-网页端
+网页端/将 LMDeploy Web Demo 部署到 [OpenXLab](https://github.com/InternLM/Tutorial/blob/camp2/tools/openxlab-deploy) 
 
 ![image-20240409204616746](lesson5.assets/image-20240409204616746.png)
 
-- 将 LMDeploy Web Demo 部署到 [OpenXLab](https://github.com/InternLM/Tutorial/blob/camp2/tools/openxlab-deploy) （OpenXLab cuda 12.2 的镜像还没有 ready，可先跳过，一周之后再来做）
+
