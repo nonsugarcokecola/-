@@ -13,3 +13,5 @@
 
 
 - 将自定义数据集提交至OpenCompass官网
+
+![image-20240428215536490](lesson7.assets/image-20240428215536490.png)
